@@ -1,0 +1,21 @@
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.csprojAssemblyReference.cache
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New_New_Shooter_Game.Form1.resources
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New_New_Shooter_Game.Properties.Resources.resources
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.csproj.GenerateResource.cache
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.csproj.CoreCompileInputs.cache
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\bin\Debug\New New Shooter Game.exe.config
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\bin\Debug\New New Shooter Game.exe
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\bin\Debug\New New Shooter Game.pdb
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.exe
+c:\users\alonb\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.pdb
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\bin\Debug\New New Shooter Game.exe.config
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\bin\Debug\New New Shooter Game.exe
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\bin\Debug\New New Shooter Game.pdb
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.csprojAssemblyReference.cache
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New_New_Shooter_Game.Form1.resources
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New_New_Shooter_Game.Properties.Resources.resources
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.csproj.GenerateResource.cache
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.csproj.CoreCompileInputs.cache
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.exe
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New New Shooter Game.pdb
+C:\Users\Alon\source\repos\New New Shooter Game\New New Shooter Game\obj\Debug\New_New_Shooter_Game.GameEnd.resources
